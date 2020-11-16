@@ -1,2 +1,2 @@
 # Algebra --- Baetica Cornel
-groups, quotiend groups, rings
+This course was taught by Baetica Cornel.
